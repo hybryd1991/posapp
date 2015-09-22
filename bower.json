@@ -1,0 +1,23 @@
+{
+  "name": "posapp",
+  "version": "0.0.0",
+  "description": "posapp backoffice",
+  "main": "main",
+  "keywords": [
+    "posapp",
+    "backoffice",
+    "eraga"
+  ],
+  "authors": [
+    "eraga"
+  ],
+  "license": "MIT",
+  "homepage": "eraga.net",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
